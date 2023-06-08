@@ -1,6 +1,6 @@
 # Exercises - Repetition Structure
 
-<a href="https://ghbmachado.github.io/repetition-scructure-js/">Access the project here</a></p>
+<a href="https://ghbmachado.github.io/vectors-list-js/">Access the project here</a></p>
 
 This project refers to some exercises proposed in college that deal with repetition structure in JavaScript.
 

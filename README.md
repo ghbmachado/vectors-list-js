@@ -1,12 +1,12 @@
-# Exercises - Repetition Structure
+# Exercises - Vectors List 
 
 <a href="https://ghbmachado.github.io/vectors-list-js/">Access the project here</a></p>
 
-This project refers to some exercises proposed in college that deal with repetition structure in JavaScript.
+This project refers to some exercises proposed in college that deal with vectors in JavaScript.
 
 ## About the project
 
-The exercises are basic and informative about some mathematical exercises and have boxes such as "alert" which aims to interact with the user so that he can take advantage of the tool.
+The exercises are based on the list of vectors provided by professor @dfpires during the 1st semester of the Software Engineering course at Uni-FACEF.
 
 ## Technologies used
 - HTML5
